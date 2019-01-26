@@ -11,7 +11,7 @@
  *
  * @author lokesh
  */
-require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\PhpProject\app\models\Database.php');
+require_once(realpath($_SERVER["DOCUMENT_ROOT"]) . '\PhpProject7\app\models\Database.php');
 
 class Database_class extends Database {
     
